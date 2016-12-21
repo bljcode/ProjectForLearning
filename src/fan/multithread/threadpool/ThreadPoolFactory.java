@@ -1,4 +1,4 @@
-package fan.ThreadPool;
+package fan.multithread.threadpool;
 
 import java.util.Map;
 import java.util.concurrent.*;

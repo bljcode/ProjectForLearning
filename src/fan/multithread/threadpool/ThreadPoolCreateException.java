@@ -1,4 +1,4 @@
-package fan.ThreadPool;
+package fan.multithread.threadpool;
 
 public class ThreadPoolCreateException extends RuntimeException {
 

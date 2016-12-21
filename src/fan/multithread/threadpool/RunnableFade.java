@@ -1,4 +1,4 @@
-package fan.ThreadPool;
+package fan.multithread.threadpool;
 
 /**
  * Runnable°ü×°Àà.

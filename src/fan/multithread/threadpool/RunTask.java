@@ -1,4 +1,4 @@
-package fan.ThreadPool;
+package fan.multithread.threadpool;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
